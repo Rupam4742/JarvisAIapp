@@ -1,5 +1,2 @@
-openai
-pyttsx3
-speechrecognition
-pyaudio
 flask
+openai
